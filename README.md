@@ -52,7 +52,13 @@ STATUS   : Learning & building
 FOCUS    : Python · Rust · C# · Unity
 MINDSET  : Understand it. Build it. Improve it.
 ```
+### `$ ./find_me.sh`
 
+<div align="center">
+
+[![itch.io](https://img.shields.io/badge/itch.io-Explore_my_games-E8E4DA?style=flat-square&logo=itch.io&logoColor=E8E4DA&labelColor=242424)](https://zorochanw.itch.io)
+
+</div>
 ---
 
 <div align="center">
